@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7bb769d5b0b1d9f8818b91752df1c985",
+    "revision": "d66d75829579846720a26994ced0d07d",
     "url": "/EOSblock/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EOSblock/static/css/2.36268c6b.chunk.css"
   },
   {
-    "revision": "04d5d3b048cc00df8f8a",
-    "url": "/EOSblock/static/css/main.0de883d4.chunk.css"
+    "revision": "7d79cb6f745d02af15ea",
+    "url": "/EOSblock/static/css/main.4707e31f.chunk.css"
   },
   {
     "revision": "6ba87653b32c8d0950ad",
     "url": "/EOSblock/static/js/2.1ed6e4e4.chunk.js"
   },
   {
-    "revision": "04d5d3b048cc00df8f8a",
+    "revision": "7d79cb6f745d02af15ea",
     "url": "/EOSblock/static/js/main.647e5cca.chunk.js"
   },
   {
