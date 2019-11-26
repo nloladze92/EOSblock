@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/EOSblock/static/css/main.0de883d4.chunk.css",
+    "main.js": "/EOSblock/static/js/main.647e5cca.chunk.js",
+    "main.js.map": "/EOSblock/static/js/main.647e5cca.chunk.js.map",
+    "runtime-main.js": "/EOSblock/static/js/runtime-main.b00d2be1.js",
+    "runtime-main.js.map": "/EOSblock/static/js/runtime-main.b00d2be1.js.map",
+    "static/css/2.36268c6b.chunk.css": "/EOSblock/static/css/2.36268c6b.chunk.css",
+    "static/js/2.1ed6e4e4.chunk.js": "/EOSblock/static/js/2.1ed6e4e4.chunk.js",
+    "static/js/2.1ed6e4e4.chunk.js.map": "/EOSblock/static/js/2.1ed6e4e4.chunk.js.map",
+    "index.html": "/EOSblock/index.html",
+    "precache-manifest.e77cba715db9b0152e279581d65a53b7.js": "/EOSblock/precache-manifest.e77cba715db9b0152e279581d65a53b7.js",
+    "service-worker.js": "/EOSblock/service-worker.js",
+    "static/css/2.36268c6b.chunk.css.map": "/EOSblock/static/css/2.36268c6b.chunk.css.map",
+    "static/css/main.0de883d4.chunk.css.map": "/EOSblock/static/css/main.0de883d4.chunk.css.map",
+    "static/media/semantic.min.css": "/EOSblock/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/eoslogo.png": "/EOSblock/static/media/eoslogo.072eac31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b00d2be1.js",
+    "static/css/2.36268c6b.chunk.css",
+    "static/js/2.1ed6e4e4.chunk.js",
+    "static/css/main.0de883d4.chunk.css",
+    "static/js/main.647e5cca.chunk.js"
+  ]
+}
