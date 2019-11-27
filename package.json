@@ -1,16 +1,36 @@
 {
-  "name": "testapp",
+  "name": "eos_loladze",
   "version": "0.1.0",
+  "homepage": "https://nloladze92.github.io/EOSblock/",
   "private": true,
   "dependencies": {
+    "babel": "^6.23.0",
+    "eosjs": "^20.0.0",
+    "gh-pages": "^2.1.1",
+    "jest-cli": "^24.9.0",
+    "lodash": "^4.17.15",
+    "mustache": "^3.1.0",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-loader": "^2.4.6",
+    "react-newline-to-break": "^1.0.6",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.2.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.1"
+  },
+  "jest": {
+    "testEnvironment": "node"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "jest --watchAll --verbose",
+    "dev-test": "nodemon dev-test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -27,5 +47,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
   }
 }

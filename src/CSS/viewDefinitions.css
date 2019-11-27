@@ -1,0 +1,31 @@
+.buttonMargin {
+    margin-top: -6vh !important;
+    margin-right: 3vw !important;
+}
+
+.leadingInfo {
+    margin-top: 2vh !important;
+    margin-left: 5vw !important;
+    margin-right: 3vw !important;
+}
+
+.fulldisplay {
+    margin-left: 5vw !important;
+    width: 85vw !important;
+}
+
+body {
+    background: #1B1C1D !important;
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.adjustLoader {
+    margin-top: 35vh !important;
+    color: gold !important;
+}
+
+.randomFact {
+    margin-left: 35vw !important;
+    margin-top: 35vh !important;
+    z-index: 1000 !important;
+}
