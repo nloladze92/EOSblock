@@ -8,7 +8,7 @@
     "eosjs": "^20.0.0",
     "gh-pages": "^2.1.1",
     "jest-cli": "^24.9.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mustache": "^3.1.0",
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.1",
